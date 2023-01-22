@@ -35,8 +35,6 @@ public class CalculateCommand implements Command{
     }
     
     private double rateOf(Currency from, Currency to){
-        
-        System.out.print(from);
         return loader.load(from, to).getRate();
     }
     
