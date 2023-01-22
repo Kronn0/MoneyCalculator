@@ -1,0 +1,6 @@
+usd, Dólar USA, $
+cad, Dólar Canadá, $
+eur, Euro, €
+gbp, Libra, £
+mxn, Peso Mexicano, $
+jpy, Yen, ¥
