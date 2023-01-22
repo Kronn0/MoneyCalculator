@@ -1,0 +1,3 @@
+usd, Dólar USA, $
+cad, Dólar Canadá, $
+eur, Euro, €
